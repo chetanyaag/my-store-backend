@@ -8,6 +8,10 @@ This backend is a part of the **MyStore** full-stack application, which consists
 - [**my-store-orm**](https://github.com/chetanyaag/my-store-orm): A module responsible for handling database transactions.
 - [**my-store-app**](https://github.com/chetanyaag/my-store-app): A React-based frontend application that consumes this API and renders data to users.
 
+##Live Link
+ [http://13.61.143.214:3000/](http://13.61.143.214:3000/)
+
+
 ## Features
 
 - Built with NestJS
