@@ -1,4 +1,4 @@
-# My Store Backend
+# My Store Backend (node: 23.6.1 and npm: 11.1.0)
 
 This is a simple backend service built using the [NestJS](https://nestjs.com/) framework. It provides a single API endpoint that returns a list of products along with their categories.
 
