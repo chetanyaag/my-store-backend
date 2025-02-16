@@ -5,7 +5,7 @@ import { Product } from 'my-store-orm/dist/entities/Product';
 
 
 
-@Controller('product')
+@Controller('products')
 export class ProductController {
     constructor(private productService: ProductService) {}
     @Get()
